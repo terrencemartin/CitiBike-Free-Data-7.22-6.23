@@ -13,9 +13,9 @@ Libraries: Quandl, Pandas, Numpy, Seaborn, Matplotlib, and Statsmodels
 
 Software: Jupyter Notebooks, Excel, and Tableau
 
-Skills Demonstrated
-Cleaning data:
-found and resolved missing values
+Skills Demonstrated:
+
+Cleaning data: found and resolved missing values
 
 Merging data:
 selected and prepared data for merging, confirmed merge was successful, and exported final merge as pkl, csv, and xlsx files.
