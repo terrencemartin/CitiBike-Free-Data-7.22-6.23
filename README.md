@@ -5,8 +5,8 @@ Objectives
 
 Find publicly availible data to conduct a both spatial and time-series analyses.
 
-Data
-Tools
+Data: https://citibikenyc.com/system-data
+
 Language: Python
 
 Libraries: Quandl, Pandas, Numpy, Seaborn, Matplotlib, and Statsmodels
